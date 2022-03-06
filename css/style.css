@@ -110,8 +110,15 @@ header {
         width: 175px;
     }
 
+    .img-cont {
+        width: 50%;
+        flex-shrink: 0;
+        flex-grow: 1;
+        align-self: center;
+    }
+
     .main-image {
-        width: 54%;
+        /* width: 54%; */
         margin: 0;
     }
 
