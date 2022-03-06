@@ -129,11 +129,15 @@ header {
         font-size: 2.5rem;
     }
 
+    .description {
+        line-height: 180%;
+    }
+
     .register-btn {
-        width: 220px;
+        width: 200px;
         margin: 30px 0;
-        padding: 15px 20px;
-        font-size: 20px;
+        padding: 15px 15px;
+        font-size: 18px;
     }
 
     .social-media {
@@ -142,13 +146,13 @@ header {
     }
 
     .social-media a {
-        width: 50px;
-        height: 50px;
-        margin: 0 8px;
+        width: 40px;
+        height: 40px;
+        margin: 0 6px;
     }
 
     .fab {
-        font-size: 24px;
-        line-height: 50px;
+        font-size: 20px;
+        line-height: 40px;
     }
 }
